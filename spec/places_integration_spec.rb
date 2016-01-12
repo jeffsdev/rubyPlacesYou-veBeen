@@ -10,6 +10,6 @@ describe("the places you've been path", {:type => :feature}) do
     visit('/')
     fill_in "location", :with => "Portland, OR"
     click_button("Enter")
-    expect(page).to have_content("Portland, OR")
-  end  
+    expect(page).to have_content("The location has been successfully added!")
+  end
 end

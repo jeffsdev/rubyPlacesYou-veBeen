@@ -12,5 +12,5 @@ post('/places') do
   location = params.fetch("location")
   place = Place.new(location)
   place.save()
-  erb(:success)
+  erb(:places)
 end
