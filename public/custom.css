@@ -1,0 +1,48 @@
+.question {
+  background: #CEDEDA;
+  min-height: 500px;
+  box-shadow: 5px 5px 5px #555;
+}
+
+.list {
+  background: #D2CEDE;
+  min-height: 500px;
+  box-shadow: 5px 5px 5px #555;
+}
+
+.jumbotron {
+  background: #BAC7CF;
+}
+
+body {
+  background: #eee;
+}
+
+.btn {
+  width: 100px;
+}
+
+.btn-success {
+  background: #54B0A5;
+  border: 1px solid #43A094;
+}
+
+hr {
+  border-color: #ccc;
+}
+
+li {
+  list-style: none;
+  font-size: 1.5em;
+
+}
+
+ul {
+    padding-left: 0;
+}
+
+.clear-btn {
+  padding-top: 25px;
+  margin-bottom: 50px;
+
+}
