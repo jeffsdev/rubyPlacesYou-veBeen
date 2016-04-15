@@ -1,9 +1,20 @@
-#README
+# Places You've Been
 
-##Description
-Exercise for Epicodus Ruby class.
+#### By Jeff Seymour, Greg Kanteres
 
-##source
+## Description
+A program to enter places you've been.  Exploration with methods in Object-Oriented Ruby programming.
 
-##License
-Copyleft 2016 Jeff Seymour & Greg Kanteres
+## Technologies Used
+HTML, CSS, Ruby, RSpec, Capybara, Sinatra
+
+## Setup
+Clone repository  
+```bundle install```  
+```ruby app.rb```  
+View in browser at localhost:4567
+
+## License
+Copyright (c) 2016 Jeff Seymour
+
+This software is licensed under the MIT license.
